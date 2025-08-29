@@ -51,175 +51,6 @@ Here are a few of my favorite projects:
 
 👉 *Check out more projects in my repositories!*
 
----
-## 🎮 Interactive Developer Zone
-
-<div align="center">
-
-### 🕹️ **Welcome to the Coding Playground!** 🎯
-
-*Test your skills, have fun, and explore interactive challenges*
-
-</div>
-
----
-
-### 🧠 **Brain Teasers & Code Challenges**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 **Quick Fire Quiz**
-<details>
-<summary>🔥 <strong>Challenge 1: JavaScript Magic</strong></summary>
-
-```javascript
-console.log(0.1 + 0.2 === 0.3);
-```
-
-**What's the output?**
-- A) `true`
-- B) `false` 
-- C) `undefined`
-
-<details>
-<summary>💡 <strong>Show Answer</strong></summary>
-
-**Answer: B) `false`**
-
-Due to floating-point precision! The result is `0.30000000000000004`
-
-*JavaScript quirks strike again!* 🤯
-
-</details>
-</details>
-
-</td>
-<td width="50%">
-
-#### 🐛 **Debug Detective**
-<details>
-<summary>🔍 <strong>Challenge 2: Spot the Bug</strong></summary>
-
-```python
-def greet_developer(name):
-    message = f"Hello {name}!"
-    return message.upper()
-
-result = greet_developer()
-print(result)
-```
-
-**What's wrong?**
-
-<details>
-<summary>🔧 <strong>Show Solution</strong></summary>
-
-**Bug**: Missing required parameter `name`
-
-**Fix**: `result = greet_developer("Anushka")`
-
-*Always check your function signatures!* ✅
-
-</details>
-</details>
-
-</td>
-</tr>
-</table>
-
----
-
-### 🎲 **Interactive Games**
-
-<div align="center">
-
-| 🎪 **Game** | 🎯 **Challenge** | 🏆 **Difficulty** |
-|-------------|------------------|-------------------|
-| 🔢 **Number Guesser** | Guess my favorite coding hour! (Hint: It's when bugs hide best) | ⭐⭐ |
-| 📝 **Code Completion** | Fill in the missing syntax | ⭐⭐⭐ |
-| 🧩 **Logic Puzzle** | Solve the algorithm mystery | ⭐⭐⭐⭐ |
-
-</div>
-
----
-
-### 🎪 **Special Challenge: The Coffee Code Mystery**
-
-<details>
-<summary>☕ <strong>Click to Enter the Coffee Dimension</strong></summary>
-
-```javascript
-const coffeeLevels = {
-    none: "Syntax errors everywhere 😵",
-    some: "Code compiles but logic is fuzzy ☁️",
-    perfect: "Clean code flows like poetry ✨",
-    overflow: "Too much caffeine, creating quantum code 🚀"
-};
-
-// Your mission: Find the perfect coffee balance!
-function getCodingState(cups) {
-    // What should go here?
-}
-```
-
-**Challenge**: Complete the function to return the right coding state!
-
-<details>
-<summary>💻 <strong>Reveal the Solution</strong></summary>
-
-```javascript
-function getCodingState(cups) {
-    if (cups === 0) return coffeeLevels.none;
-    if (cups <= 2) return coffeeLevels.some;
-    if (cups <= 4) return coffeeLevels.perfect;
-    return coffeeLevels.overflow;
-}
-```
-
-**Perfect Answer!** You've mastered the coffee-code correlation! 🎉
-
-</details>
-</details>
-
----
-
-### 🏅 **Achievement Unlocked System**
-
-<div align="center">
-
-**Visitor Achievements:**
-- 🎯 **Code Explorer**: Clicked on a challenge
-- 🧠 **Brain Teaser Master**: Solved a quiz
-- ☕ **Coffee Connoisseur**: Completed the coffee challenge
-- 🎮 **Game Champion**: Tried all interactive elements
-
-</div>
-
----
-
-### 🎨 **Visual Code Art**
-
-<div align="center">
-
-```
-    ☕ + 💻 = 🚀
-   /               \
-  /     CODING      \
- /      HAPPENS      \
-/        HERE         \
-------------------------
-```
-
-**ASCII Art Challenge**: Can you create better code art? Share it in the issues!
-
-</div>
-
----
-
-**🎪 Why Games?** Because learning should be interactive, coding should be fun, and profiles should spark curiosity!
-
 ## 🏆 Achievements
 
 • 🚀 **Built multiple full-stack projects** solving real-world problems  
@@ -236,7 +67,6 @@ function getCodingState(cups) {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anu07718&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anu07718&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -273,7 +103,10 @@ Perfect Code = Coffee² + Lo-fi Beats + Late Night Sessions
 
 <div align="center">
 
-<img src="https://i.imgur.com/your-coffee-coding-image.jpg" width="400" alt="Cozy coding with coffee">
+
+<img src="https://github.com/user-attachments/assets/f464691d-54fd-4a55-ad34-a4937a4887ff" width="400" />
+
+
 
 </div>
 
