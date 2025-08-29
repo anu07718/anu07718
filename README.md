@@ -1,4 +1,4 @@
-# ✨Welcome to Anushka's Workspace ✨
+# ✨Welcome to Anushka's Coding Workspace ✨
  ☕ Fueled by Coffee, Powered by Code 💻 
 
 ## 🧑‍💻 About Me
