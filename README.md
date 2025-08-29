@@ -1,5 +1,5 @@
-# ☕ Fueled by Coffee, Powered by Code - Anushka's Workspace  💻 
-
+# ✨Welcome to Anushka's Workspace ✨
+ ☕ Fueled by Coffee, Powered by Code 💻 
 
 ## 🧑‍💻 About Me
 
