@@ -1,5 +1,5 @@
 
-# ☕ Anushka's Coffee & Code Sanctuary ☕
+# ✨Welcome to Anushka's Coding Workspace ✨
 
 ### *Where every line of code is brewed to perfection* ☕✨
 
