@@ -57,12 +57,12 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 
 *Take a break from coding and enjoy these interactive games!*
 
-```
+<pre>
 🎮 GAME ZONE 🎮
 ┌─────────────────────────────────────┐
 │  ☕ Coffee + Code = Fun Games! ☕   │
 └─────────────────────────────────────┘
-```
+</pre>
 
 </div>
 
@@ -158,13 +158,13 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 
 <div align="center">
 
-```
+<pre>
 ☕ PHILOSOPHY CORNER ☕
 ┌─────────────────────────────────────┐
 │  🌱 From Bean to Byte: The Art of   │
 │  💻 Brewing Perfect Code            │
 └─────────────────────────────────────┘
-```
+</pre>
 
 ### 🌱 The Art of Brewing Code
 *Just like crafting the perfect cup of coffee, coding is an art that requires patience, precision, and passion*
