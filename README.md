@@ -73,14 +73,14 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 <td align="center" width="50%">
 
 ### 🐍 Snake Game
-[![Play Snake](https://img.shields.io/badge/Play-Snake%20Game-4CAF50?style=for-the-badge&logo=snake&logoColor=white)](https://github.com/anu07718/snake-game)
+[![Play Snake](https://img.shields.io/badge/Play-Snake%20Game-4CAF50?style=for-the-badge&logo=snake&logoColor=white)](https://playsnake.org/)
 *Classic snake game with a coffee twist - collect coffee beans to grow!*
 
 </td>
 <td align="center" width="50%">
 
 ### ⭕ Tic-Tac-Toe
-[![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF9800?style=for-the-badge&logo=gamepad2&logoColor=white)](https://github.com/anu07718/tic-tac-toe)
+[![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF9800?style=for-the-badge&logo=gamepad2&logoColor=white)](https://playtictactoe.org/)
 *Challenge your friends in this coffee-themed tic-tac-toe game!*
 
 </td>
@@ -89,14 +89,14 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 <td align="center" width="50%">
 
 ### 🧠 Memory Game
-[![Play Memory](https://img.shields.io/badge/Play-Memory%20Game-9C27B0?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/anu07718/memory-game)
+[![Play Memory](https://img.shields.io/badge/Play-Memory%20Game-9C27B0?style=for-the-badge&logo=brain&logoColor=white)](https://www.memozor.com/memory-games/for-kids/coffee)
 *Test your memory with coffee-themed cards and coding symbols!*
 
 </td>
 <td align="center" width="50%">
 
 ### ⌨️ Typing Test
-[![Play Typing](https://img.shields.io/badge/Play-Typing%20Test-2196F3?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/anu07718/typing-test)
+[![Play Typing](https://img.shields.io/badge/Play-Typing%20Test-2196F3?style=for-the-badge&logo=keyboard&logoColor=white)](https://www.typingtest.com/)
 *Improve your coding speed with programming-themed typing challenges!*
 
 </td>
