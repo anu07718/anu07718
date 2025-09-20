@@ -23,21 +23,6 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 |:---:|:---:|:---:|:---:|
 | Learning new technologies every day | Clean, user-friendly designs | Making life easier and more fun | Open-source contributions & real-world impact |
 
-</div>
-
-<div align="center">
-
-### 🎨 My Development Style
-*"Code like you're brewing the perfect cup of coffee - with patience, precision, and a touch of creativity"*
-
-```
-☕ Coffee Preferences    💻 Coding Preferences
-├── ☕ Espresso          ├── ⚡ Fast & Efficient
-├── 🥛 Latte Art        ├── 🎨 Clean & Beautiful  
-├── 🌱 Single Origin    ├── 🏗️ Well-Architected
-└── 🌙 Late Night Brew  └── 🌙 Late Night Coding
-```
-
 </div>  
 
 ---
@@ -68,25 +53,55 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 
 ## 🎮 Coffee Break Games
 
+<div align="center">
+
 *Take a break from coding and enjoy these interactive games!*
 
+```
+🎮 GAME ZONE 🎮
+┌─────────────────────────────────────┐
+│  ☕ Coffee + Code = Fun Games! ☕   │
+└─────────────────────────────────────┘
+```
+
+</div>
+
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
 
 ### 🐍 Snake Game
 [![Play Snake](https://img.shields.io/badge/Play-Snake%20Game-4CAF50?style=for-the-badge&logo=snake&logoColor=white)](https://github.com/anu07718/snake-game)
 *Classic snake game with a coffee twist - collect coffee beans to grow!*
 
+</td>
+<td align="center" width="50%">
+
 ### ⭕ Tic-Tac-Toe
 [![Play Tic-Tac-Toe](https://img.shields.io/badge/Play-Tic--Tac--Toe-FF9800?style=for-the-badge&logo=gamepad2&logoColor=white)](https://github.com/anu07718/tic-tac-toe)
 *Challenge your friends in this coffee-themed tic-tac-toe game!*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
 
 ### 🧠 Memory Game
 [![Play Memory](https://img.shields.io/badge/Play-Memory%20Game-9C27B0?style=for-the-badge&logo=brain&logoColor=white)](https://github.com/anu07718/memory-game)
 *Test your memory with coffee-themed cards and coding symbols!*
 
+</td>
+<td align="center" width="50%">
+
 ### ⌨️ Typing Test
 [![Play Typing](https://img.shields.io/badge/Play-Typing%20Test-2196F3?style=for-the-badge&logo=keyboard&logoColor=white)](https://github.com/anu07718/typing-test)
 *Improve your coding speed with programming-themed typing challenges!*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -94,10 +109,17 @@ Hi there! I'm **Anushka**, a third-year IT Engineering student at SFIT passionat
 
 ## 🚀 Projects
 
-Here are a few of my favorite projects:
+<div align="center">
 
-| Project Name | Description | Tech Stack |
-|-------------|-------------|------------|
+*Here are a few of my favorite projects that showcase my passion for creating meaningful solutions*
+
+
+</div>
+
+<div align="center">
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|:---:|:---:|:---:|
 | 💰 **FitBit** | A Web-based Fitness Tracker helping people stay healthy | `JavaScript`, `HTML`, `CSS` |
 | 📚 **Django-Website** | Modern web application with clean design | `Python`, `Django`, `HTML`, `CSS` |
 | 🍕 **Foodie** | Food ordering and reservation app | `HTML`, `CSS`, `Node.js` |
@@ -105,11 +127,14 @@ Here are a few of my favorite projects:
 | 🤖 **Career-Chatbot** | Smart career advisor chatbot for personalized guidance | `Python`, `NLP` |
 | 🔥 **Torchbearer** | Java-based event discovery platform for travelers | `Java`, `MySQL` |
 
+</div>
+
 👉 *Check out more projects in my repositories!*
 
 ---
 
 ## 🏆 Achievements
+
 
 • 🚀 **Built multiple full-stack projects** solving real-world problems  
 • 🎖️ **Top Contributor** to team projects and hackathons  
@@ -133,54 +158,60 @@ Here are a few of my favorite projects:
 
 <div align="center">
 
-### 🌱 From Bean to Byte
-*Just like brewing the perfect cup of coffee, coding requires patience, precision, and passion*
-
 ```
-☕ Coffee Brewing Process    💻 Code Development Process
-├── 🌱 Select Quality Beans  ├── 🎯 Define Clear Requirements  
-├── 🔥 Roast to Perfection   ├── 🏗️ Design Architecture
-├── 💧 Grind with Precision  ├── ⚡ Write Clean Code
-├── ⏰ Brew with Patience    ├── 🧪 Test Thoroughly
-└── ☕ Enjoy the Result      └── 🚀 Deploy & Iterate
+☕ PHILOSOPHY CORNER ☕
+┌─────────────────────────────────────┐
+│  🌱 From Bean to Byte: The Art of   │
+│  💻 Brewing Perfect Code            │
+└─────────────────────────────────────┘
 ```
 
-### 🎵 My Coding Playlist
-*The perfect soundtrack for late-night coding sessions*
-
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your-coding-playlist)
-*Lo-fi beats, ambient sounds, and coffee shop vibes*
-
-</div>
-
----
-
-## ☕ Coffee & Code Stats
+### 🌱 The Art of Brewing Code
+*Just like crafting the perfect cup of coffee, coding is an art that requires patience, precision, and passion*
 
 <div align="center">
 
-### 🎯 Daily Coding Ritual
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### ☕ Coffee Journey
 ```
-🌅 Morning: 2 cups ☕ + Planning the day's code
-🌞 Afternoon: 1 cup ☕ + Building features  
-🌙 Evening: 3 cups ☕ + Debugging & optimization
-🌃 Late Night: ∞ cups ☕ + "Just one more feature..."
+🌱 Select Quality Beans
+🔥 Roast to Perfection  
+💧 Grind with Precision
+⏰ Brew with Patience
+☕ Enjoy the Result
 ```
 
-### 📈 This Week's Progress
-| Metric | Count | Emoji |
-|--------|-------|-------|
-| ☕ Cups of Coffee | 42 | ☕☕☕ |
-| 💻 Lines of Code | 2,847 | 💻 |
-| 🐛 Bugs Fixed | 23 | 🐛➡️✨ |
-| 🚀 Features Shipped | 5 | 🚀 |
-| 😴 Hours of Sleep | 28 | 😴 |
+</td>
+<td align="center" width="50%">
 
-### 🏆 Coding Achievements
-[![Coffee Lover](https://img.shields.io/badge/Coffee%20Lover-8B4513?style=for-the-badge&logo=coffee&logoColor=white)]()
-[![Night Owl Coder](https://img.shields.io/badge/Night%20Owl%20Coder-2C3E50?style=for-the-badge&logo=moon&logoColor=white)]()
-[![Bug Hunter](https://img.shields.io/badge/Bug%20Hunter-FF6B6B?style=for-the-badge&logo=bug&logoColor=white)]()
-[![Code Optimizer](https://img.shields.io/badge/Code%20Optimizer-4ECDC4?style=for-the-badge&logo=lightning&logoColor=white)]()
+#### 💻 Code Journey
+```
+🎯 Define Clear Requirements
+🏗️ Design Architecture
+⚡ Write Clean Code
+🧪 Test Thoroughly
+🚀 Deploy & Iterate
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎵 Coding Soundtrack
+*The perfect harmony of coffee, code, and creativity*
+
+<div align="center">
+
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/your-coding-playlist)
+
+*🎧 Lo-fi beats • 🌙 Ambient sounds • ☕ Coffee shop vibes*
+
+</div>
 
 </div>
 
@@ -188,12 +219,40 @@ Here are a few of my favorite projects:
 
 ## 🌍 Let's Connect
 
+</div>
+
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
+
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushka-kotal)
+*Professional networking & opportunities*
+
+</td>
+<td align="center" width="50%">
+
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+*Behind-the-scenes coding life*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourid)
+*Real-time coding discussions*
+
+</td>
+<td align="center" width="50%">
+
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:askotal07@gmail.com)
+*Direct collaboration & inquiries*
+
+</td>
+</tr>
+</table>
 
 </div>
 
