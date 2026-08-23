@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=24,20,12&height=180&section=header&text=Anushka's%20Coding%20Workspace&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=42" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E1B12,50:7B4B2A,100:C68B59&height=150&section=header&text=Anushka's%20Coding%20Workspace&fontSize=40&fontColor=FFF3E4&animation=fadeIn&fontAlignY=52" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=D6A15E&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%E2%98%95+Fueled+by+Coffee%2C+Powered+by+Code;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%8E%A8+Design+Meets+Engineering;%F0%9F%92%A1+From+Bean+to+Byte)](https://git.io/typing-svg)
 
@@ -19,8 +19,6 @@
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28"> About Me
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 ```python
 class AnushkaKotal:
@@ -50,7 +48,13 @@ class AnushkaKotal:
         ]
 ```
 
-<br clear="right"/>
+<div align="center">
+
+<!-- SWAP ME: cute anime / cat-coding gif goes here.
+     Copy an image address from giphy.com or tenor.com and replace the src. -->
+<img alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
+</div>
 
 <details>
 <summary>☕ <b>Pour a cup and read on...</b></summary>
@@ -240,10 +244,9 @@ Food ordering and reservations, built for speed and as few taps as possible.
   width like 49% squashes one and stretches the other. Matching on height
   keeps both near 1.00x and they sit side by side inside the README column.
 -->
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=anu07718&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&icon_color=E0B77A&text_color=D6A15E&title_color=C68B59&cache_seconds=1800"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anu07718&layout=compact&hide_border=true&bg_color=1c1917&text_color=D6A15E&title_color=C68B59&langs_count=8&cache_seconds=1800"/>
+<img height="195" src="https://github-readme-stats-eight-gamma-66.vercel.app/api?username=anu07718&show_icons=true&count_private=true&hide_border=true&bg_color=1c1917&icon_color=E0B77A&text_color=D6A15E&title_color=C68B59&cache_seconds=1800"/>
+<img height="195" src="https://github-readme-stats-eight-gamma-66.vercel.app/api/top-langs/?username=anu07718&layout=compact&hide_border=true&bg_color=1c1917&text_color=D6A15E&title_color=C68B59&langs_count=8&cache_seconds=1800"/>
 
-<img width="70%" src="https://github-profile-trophy.vercel.app/?username=anu07718&theme=gruvbox&no-frame=true&column=5&row=3&margin-w=8&margin-h=8"/>
 
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anu07718&bg_color=1c1917&color=D6A15E&line=C68B59&point=E0B77A&area=true&area_color=C68B59&title_color=D6A15E&hide_border=true&custom_title=Anushka's%20Contribution%20Graph"/>
 
@@ -386,6 +389,6 @@ print(longest_palindrome("babad"))  # "bab" or "aba"
 
 **☕ Thanks for stopping by — making the web a warmer place, one commit at a time.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=110&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C68B59,50:7B4B2A,100:2E1B12&height=90&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
