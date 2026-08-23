@@ -6,7 +6,6 @@
 
 <img src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/hero.gif" width="620"/>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu07718&label=Visitors&color=C68B59&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/anu07718?label=Followers&style=for-the-badge&color=D6A15E&labelColor=1c1917" alt="followers"/>
@@ -48,7 +47,6 @@ class AnushkaKotal:
             "🎯 Open-source contributions & real-world impact"
         ]
 ```
-
 
 <div align="center">
 <img alt="Coding" width="420" src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/coding.gif"/>
