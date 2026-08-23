@@ -4,10 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=D6A15E&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%E2%98%95+Fueled+by+Coffee%2C+Powered+by+Code;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%8E%A8+Design+Meets+Engineering;%F0%9F%92%A1+From+Bean+to+Byte)](https://git.io/typing-svg)
 
-<!-- HERO GIF. Commit your gif to  assets/hero.gif  in this repo, then delete
-     these two comment lines so the img below goes live.
 <img src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/hero.gif" width="620"/>
--->
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=anu07718&label=Visitors&color=C68B59&style=for-the-badge" alt="Profile Views" />
@@ -51,12 +49,10 @@ class AnushkaKotal:
         ]
 ```
 
-<!-- ABOUT GIF. Commit your gif to  assets/coding.gif  in this repo, then delete
-     these two comment lines so the block below goes live.
+
 <div align="center">
 <img alt="Coding" width="420" src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/coding.gif"/>
 </div>
--->
 
 <details>
 <summary>☕ <b>Pour a cup and read on...</b></summary>
@@ -293,9 +289,7 @@ Food ordering and reservations, built for speed and as few taps as possible.
 
 <div align="center">
 
-<!-- SPARE GIF. Commit to  assets/coffee.gif  then delete these two comment lines.
 <img src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/coffee.gif" width="480"/>
--->
 
 <table>
 <tr>
