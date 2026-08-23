@@ -4,6 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3200&pause=900&color=D6A15E&center=true&vCenter=true&multiline=true&width=800&height=110&lines=%E2%98%95+Fueled+by+Coffee%2C+Powered+by+Code;%F0%9F%8C%90+Full+Stack+Web+Developer;%F0%9F%8E%A8+Design+Meets+Engineering;%F0%9F%92%A1+From+Bean+to+Byte)](https://git.io/typing-svg)
 
+<!-- GIF SLOT 1 | HERO  - big banner under the title (~620px). anime girl coding / cosy desk -->
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="620">
 
 <p align="center">
@@ -50,8 +51,7 @@ class AnushkaKotal:
 
 <div align="center">
 
-<!-- SWAP ME: cute anime / cat-coding gif goes here.
-     Copy an image address from giphy.com or tenor.com and replace the src. -->
+<!-- GIF SLOT 2 | ABOUT - beside the class block (~420px). girl with coffee + laptop -->
 <img alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 </div>
@@ -121,6 +121,7 @@ class AnushkaKotal:
 <tr>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 3 | PROJ 1 - Sip & Savor (55px). coffee cup -->
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55">
 
 **☕ Sip & Savor**
@@ -132,6 +133,7 @@ A sanctuary for coffee lovers — table reservations, a curated menu, and an int
 </td>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 4 | PROJ 2 - FitBit (55px). something active -->
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55">
 
 **💰 FitBit**
@@ -145,6 +147,7 @@ A web-based fitness tracker that helps people build healthier habits and actuall
 <tr>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 5 | PROJ 3 - Career-Chatbot (55px). robot / chat -->
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55">
 
 **🤖 Career-Chatbot**
@@ -156,6 +159,7 @@ A career advisor that gives personalised guidance through natural conversation i
 </td>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 6 | PROJ 4 - Torchbearer (55px). fire / map -->
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55">
 
 **🔥 Torchbearer**
@@ -169,6 +173,7 @@ An event discovery platform helping travellers find what's actually happening ar
 <tr>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 7 | PROJ 5 - Django-Website (55px). python / web -->
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55">
 
 **📚 Django-Website**
@@ -180,6 +185,7 @@ A modern web application built on Django, with a clean and considered design lan
 </td>
 <td width="50%">
 <div align="center">
+<!-- GIF SLOT 8 | PROJ 6 - Foodie (55px). food -->
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55">
 
 **🍕 Foodie**
