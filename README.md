@@ -20,6 +20,8 @@
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28"> About Me
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/coding.gif">
+
 ```python
 class AnushkaKotal:
     def __init__(self):
@@ -47,10 +49,6 @@ class AnushkaKotal:
             "🎯 Open-source contributions & real-world impact"
         ]
 ```
-
-<div align="center">
-<img alt="Coding" width="420" src="https://raw.githubusercontent.com/anu07718/anu07718/main/assets/coding.gif"/>
-</div>
 
 <details>
 <summary>☕ <b>Pour a cup and read on...</b></summary>
