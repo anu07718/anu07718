@@ -72,6 +72,8 @@ class AnushkaKotal:
 
 </details>
 
+<br clear="right"/>
+
 ---
 
 ## ☕ Tech Pantry
