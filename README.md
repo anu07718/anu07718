@@ -65,10 +65,10 @@ class AnushkaKotal:
 
 | Currently Brewing | Strength | Progress |
 |:---|:---:|:---|
-| 🌐 Full Stack Web Projects | 🟢 Strong | `████████░░` 80% |
-| ⚛️ React & Node.js Deep Dive | 🟢 Strong | `███████░░░` 70% |
-| 🤖 Python & NLP Experiments | 🟡 Medium | `██████░░░░` 60% |
-| 🎨 UI/UX & Design Systems | 🟤 Light | `████░░░░░░` 40% |
+| 🌐 Full Stack Web Projects | 🟢 Strong | 🟫🟫🟫🟫⬜ **80%** |
+| ⚛️ React & Node.js Deep Dive | 🟢 Strong | 🟫🟫🟫⬜⬜ **70%** |
+| 🤖 Python & NLP Experiments | 🟡 Medium | 🟫🟫🟫⬜⬜ **60%** |
+| 🎨 UI/UX & Design Systems | 🟤 Light | 🟫🟫⬜⬜⬜ **40%** |
 
 ### ☕ Roast Notes
 - My code runs better paired with coffee and lo-fi beats
